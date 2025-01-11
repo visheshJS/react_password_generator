@@ -29,9 +29,7 @@ Visit the live site: [https://reactpasswordmaker.netlify.app/](https://reactpass
 
 ---
 
-## 📂 Project Structure
 
-The main files and folders are:
 
 
 
